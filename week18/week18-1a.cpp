@@ -1,4 +1,4 @@
-//week18-1.cpp leetcode 2185. Counting Words With a Given Prefix
+//week18-1a.cpp leetcode 2185. Counting Words With a Given Prefix
 class Solution {
 public:
     int prefixCount(vector<string>& words, string pref) {
